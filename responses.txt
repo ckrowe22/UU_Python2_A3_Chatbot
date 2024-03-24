@@ -1,0 +1,11 @@
+sad,What is upsetting you?
+mad,Why are you angry?
+happy,I'm glad to hear it!
+cry,I'm sorry to hear that.
+bored,Maybe you should go for a hike.
+raining,Maybe you should read a book.
+birthday,Happy birthday!
+october,Happy Halloween!
+exam,Don't be stressed. You will do great!
+work,I'm sorry. I'm glad I don't have to work.
+great,I'm glad to hear that!
